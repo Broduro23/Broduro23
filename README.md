@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:00D9F5,100:7B61FF&height=180&section=header&text=BRAVIN+ODUOR&fontSize=40&fontColor=fD777&fontAlignY=38&desc=Computer+Science+Student+|AI+and+Software+Engineering+Enthusiast&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:00D9F5,100:7B61FF&height=180&section=header&text=BRAVIN+ODUOR&fontSize=40&fontColor=F4C430&fontAlignY=38&desc=Computer+Science+Student+|AI+and+Software+Engineering+Enthusiast&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
 </p>
 
 # Hi there, I'm BRAVIN ODUOR 👋
 
-A brief, 2-3 sentence introduction about who you are, what you are passionate about, and what kind of problems you enjoy solving. Speak to your unique engineering interests here.
+I am a Computer Science student passionate about Artificial Intelligence, Software Engineering, and building technology-driven solutions that address real-world challenges. My interests lie in developing intelligent systems, full-stack web applications, and data-driven platforms that enhance decision-making and user experiences
 
-- 🔭 **Current Focus:** What are you actively working on or building right now? (e.g., a specific project, thesis, or application)
+- 🔭 **Current Focus:** NeuroGuide - Transformer Based Content saffety classification
 - 🌱 **Learning & Exploration:** Data Strucutures, Machine Learning, Django Framework, NextJs.
 - ⚡ **Core Interests:** Artificial Intelligence, Machine Learning, Software Engineering, Cloud Computing, Database Systems
 
@@ -14,7 +14,7 @@ A brief, 2-3 sentence introduction about who you are, what you are passionate ab
 
 ## Technical Ecosystem
 
-*Tip: You can customize or add categories below to match your unique skillset. You can find more badge styles and icons at [Shields.io](https://shields.io/).*
+
 
 ### Core Competencies & Core Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" /> <img src="https://img.shields.io/badge/React-F7DF1E?style=for-the-badge&logoColor=black" /> <img src="https://img.shields.io/badge/MySQL-20232A?style=for-the-badge" />

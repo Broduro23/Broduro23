@@ -41,8 +41,8 @@ I am a Computer Science student passionate about Artificial Intelligence, Softwa
 
 ## Connect With Me
 
-- 💼 **Professional Network:** [Link to your LinkedIn, Portfolio, or CV]
-- 📧 **Direct Contact:** [Your email address or professional contact point]
+- 💼 **Professional Network:** https://www.linkedin.com/in/bravin-oduor-2a3a8b292/
+- 📧 **Direct Contact:** linkinbravo66@gmail.com
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer" />
